@@ -56,8 +56,8 @@ Test execution video is added in - `test-reports/videos`
 1. Clone git repo
    `git clone git@bitbucket.org:bbcworldwide/topgear.com.git`
 
-2. Change to the test directory
-   `cd which_task/e2e_tests`
+2. Go to the root directory
+   `cd which_demo`
 
 3. Install dependencies
    `npm install`
