@@ -53,8 +53,8 @@ Test execution video is added in - `test-reports/videos`
 
 ## Steps to run tests
 
-1. Clone git repo
-   `git clone git@bitbucket.org:bbcworldwide/topgear.com.git`
+1. Clone the repository to local
+   `git clone https://github.com/qamitech/which_demo.git`
 
 2. Go to the root directory
    `cd which_demo`
