@@ -39,9 +39,10 @@ This is a BDD automation framework implemented to test which.co.uk website as pa
 - Upload screen videos of your automation code running and screenshots of results
   after they have finished executing.
 
-# Test cases
+# Deliverables
 
 All the tests (manual and automated) are added in the file - `features/television-reviews.feature`
+Test execution video is added in - `test-reports/videos`
 
 # Run Tests
 
